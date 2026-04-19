@@ -89,11 +89,11 @@ Nexus_Social provides a complete social networking environment where users can c
 ## 📂 Project Structure
 Nexus_Social/
 │
-├── .sixth
-├── client
-├── server
-├── node_modules
+├── client/
+├── server/
+├── node_modules/
 │
-├── package.json 
-├── package-lock.json 
-└── README.md 
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
