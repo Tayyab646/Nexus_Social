@@ -89,11 +89,11 @@ Nexus_Social provides a complete social networking environment where users can c
 ## 📂 Project Structure
 Nexus_Social/
 │
-├── .sixth/ # (Environment / tool-related folder)
-├── client/ # Frontend (HTML, CSS, JS)
-├── server/ # Backend logic (Node.js, APIs)
-├── node_modules/ # Dependencies (ignored in Git)
+├── .sixth
+├── client
+├── server
+├── node_modules
 │
-├── package.json # Project configuration
-├── package-lock.json # Dependency lock file
-└── README.md # Project documentation
+├── package.json 
+├── package-lock.json 
+└── README.md 
