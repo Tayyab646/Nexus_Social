@@ -86,14 +86,17 @@ Nexus_Social provides a complete social networking environment where users can c
 
 ---
 
-## 📂 Project Structure
+### 📁 Project Structure
+
+```text
 Nexus_Social/
 │
-├── client/
-├── server/
-├── node_modules/
+├── client/            # Frontend (React / UI)
+├── server/            # Backend (Node.js / Express)
+├── node_modules/      # Dependencies
 │
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
